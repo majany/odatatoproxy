@@ -1,0 +1,15 @@
+{
+  "name": "odatatoproxy",
+  "version": "1.0.0",
+  "description": "Middleware for ui5 tooling server to allow odata requests to be forwaredet to the proxy",
+  "private": true,
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathäus Jany",
+  "license": "ISC"
+}
