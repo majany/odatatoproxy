@@ -20,3 +20,8 @@ server:
  * Now set the environment variable ``REMOTE_LOCATION`` to the host of your service.
  * The middleware automatically determines the path to your odata service from the manifest.json file.
  * e.g. you want to use the odata service at https://services.odata.org/V2/OData/OData.svc/, then you need to set ``REMOTE_LOCATION `` to https://services.odata.org and your manifest.json should contain ``/V2/OData/OData.svc/`` as mainService uri.
+ 
+ ## Example implementation
+ 
+ https://github.com/majany/openui5-sample-app/tree/demo-server-middleware-extensibility
+ 
