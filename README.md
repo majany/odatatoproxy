@@ -1,4 +1,4 @@
-# OdataToProxy middleware for ui5 tooling
+# OdataToProxy middleware extension for ui5 tooling express server
 
 Allows you to forward the odata requests of your ui5 app to the
 in ui5 tooling integrated proxy running at localhost:8080/proxy
